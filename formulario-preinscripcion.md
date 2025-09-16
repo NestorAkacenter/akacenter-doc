@@ -44,9 +44,9 @@ Este formulario permite a los **estudiantes** gestionar sus inscripciones a curs
 
 - **Registro en la base de datos**  
 Cada formulario guarda un historial con fechas de:  
-- Creación  
-- Actualización  
-- Firma del anexo  
+  Creación  
+  Actualización  
+  Firma del anexo  
 
 - **Mejoras de interfaz**  
 - El botón **"Volver al formulario"** durante la firma ahora está en la esquina superior izquierda.
